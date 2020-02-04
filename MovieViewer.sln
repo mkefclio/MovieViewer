@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieViewer", "MovieViewer\MovieViewer.csproj", "{D7AD1766-24A2-4D1F-96E1-262BBE2E9016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieViewer.Tests", "MovieViewer.Tests\MovieViewer.Tests.csproj", "{43B7E158-DC1F-4447-AE06-B26270DE7789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7AD1766-24A2-4D1F-96E1-262BBE2E9016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AD1766-24A2-4D1F-96E1-262BBE2E9016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AD1766-24A2-4D1F-96E1-262BBE2E9016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AD1766-24A2-4D1F-96E1-262BBE2E9016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B7E158-DC1F-4447-AE06-B26270DE7789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B7E158-DC1F-4447-AE06-B26270DE7789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B7E158-DC1F-4447-AE06-B26270DE7789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B7E158-DC1F-4447-AE06-B26270DE7789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95749C09-4422-445F-91C6-8F4FEF7F554E}
+	EndGlobalSection
+EndGlobal
